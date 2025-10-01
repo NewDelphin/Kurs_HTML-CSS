@@ -2,13 +2,30 @@ body {
     background-color: #374151;
 }
 
-nav {
+header nav {
     color: #FFF;
     font-family: Roboto;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+header input {
+    border-radius: 100px;
+    background: rgba(31, 41, 55, 0.60);
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6;
+    padding: 5px 10px;
+}
+
+header {
+    margin-bottom: 79px;
 }
 
 .colontitule {
@@ -19,6 +36,7 @@ nav {
     font-weight: 400;
     line-height: normal;
     opacity: 0.6;
+    margin-bottom: 14px;
 }
 
 h1 {
@@ -28,6 +46,7 @@ h1 {
     font-style: normal;
     font-weight: 400;
     line-height: 38px;
+    margin-bottom: 30px;
 }
 
 h2 {
@@ -46,6 +65,11 @@ h3 {
     font-style: normal;
     font-weight: 400;
     line-height: 28px;
+    margin-bottom: 28px;
+}
+
+img {
+   margin-bottom: 69px; 
 }
 
 .mainp {
@@ -64,6 +88,10 @@ h3 {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+}
+
+article {
+   margin-bottom: 103px; 
 }
 
 footer {
