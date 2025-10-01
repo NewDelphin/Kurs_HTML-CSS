@@ -1,0 +1,30 @@
+main {
+    background-color: #FFFEFE;
+}
+
+h1 {
+    color: #333;
+    font-size: 36px;
+}
+
+p {
+    background-color: #FFFFFF;
+    color: #333;
+    font-size: 16px;
+}
+
+input {
+    background-color: #F5F5F5;
+    color: #999999;
+    font-size: 16px;
+    font-style: italic;
+}
+
+button {
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
+
+label {
+    color: #666666;
+}
